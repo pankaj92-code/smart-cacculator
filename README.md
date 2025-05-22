@@ -1,1 +1,1 @@
-# smart-cacculator
+# smart-caculator
